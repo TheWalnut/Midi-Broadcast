@@ -12,6 +12,8 @@ On the backend this project is run using Node.js as the backend and AngularJS as
 
 At the start of the program, node will start a server on port 8000.  It will also prompt the user as to which midi device to listen for events.
 
+**Powerpoint is attached as CS480Final.key
+
 
 
 ##Dependencies
